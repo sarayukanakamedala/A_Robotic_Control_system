@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pickle-mixin
+speechrecognition
+googletrans==4.0.0-rc1
+gtts
+pyserial
+requests
+supabase
+pyaudio
